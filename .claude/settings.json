@@ -6,7 +6,7 @@
       "Edit(*)",
       "Glob(*)",
       "Grep(*)",
-      "Bash(mkdir *)",
+      "Bash(mkdir:*)",
       "Bash(ls *)",
       "Bash(git add *)",
       "Bash(git commit *)",
