@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "Bash(mkdir *)",
+      "Bash(ls *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "mcp__exafree__*",
+      "mcp__semantic-scholar__*"
+    ]
+  }
+}

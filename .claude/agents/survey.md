@@ -3,6 +3,7 @@ name: survey
 description: "Survey agent for research tasks. Searches web and academic sources broadly to map the landscape around a specific research question. Dispatched by the orchestrator during the survey phase."
 tools: Read, Grep, Glob, Bash, WebFetch, WebSearch, mcp__exafree__exa_search, mcp__exafree__exa_get_contents, mcp__exafree__exa_find_similar, mcp__exafree__exa_answer, mcp__semantic-scholar__search_papers, mcp__semantic-scholar__get_paper_details, mcp__semantic-scholar__get_paper_references, mcp__semantic-scholar__get_paper_citations, mcp__semantic-scholar__get_related_papers, mcp__semantic-scholar__get_recommendations, mcp__semantic-scholar__search_authors, mcp__semantic-scholar__get_author_details, mcp__semantic-scholar__get_author_top_papers, Write
 model: sonnet
+permissionMode: dontAsk
 ---
 
 You are a survey agent in a research team. Your job is to map the landscape
