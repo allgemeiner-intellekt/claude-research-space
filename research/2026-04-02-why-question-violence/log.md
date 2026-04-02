@@ -60,3 +60,67 @@ Q3 gives us the empirical evidence that this matters. Q4 captures the
 specifically *social* and *violent* dimension the user intuited. Together they
 should let us write something that moves from formal structure through
 methodological principle to real-world consequence.
+
+## Survey phase — complete
+
+All four surveys returned strong material. Key findings per thread:
+
+- **Presupposition (Q1)**: Van Fraassen's tripartite structure identified — the
+  *third* presupposition (that an explanation of the right type exists) is unique
+  to why-questions. Bromberger's p-predicament, Tomioka's grammatical stickiness,
+  Macagno's burden-reversal all confirmed. No existing work on "loaded why-questions"
+  as a specific category.
+- **Aristotle (Q2)**: Posterior Analytics II.1 is precise — "when we know the fact
+  we seek the reason why." Gelman-Imbens (2013) independently rediscovers the
+  ordering principle for causal inference. Gap: no one explicitly argues premature
+  why-questioning is a *systematic* methodological error.
+- **Cases (Q3)**: Block (1996) on race/IQ is the sharpest logical anatomy. Fine and
+  Fausto-Sterling on gender. Ego depletion as replication-crisis case. Culture of
+  poverty as policy case. Teo's "epistemological violence" names the harm directly.
+- **Pragmatics (Q4)**: Bolden & Robinson's "Janus-faced" why. German warum/wieso
+  split shows accusatory function is grammaticalized. MI's clinical prohibition.
+  Fricker's framework maps but the connection is unmade in the literature.
+
+## Review round 1 — CONTINUE
+
+Reviewer identified three gaps that prevent the essay from being a unified argument
+rather than four parallel surveys:
+
+1. **Contrast class as ideological instrument** — van Fraassen's formal concept
+   operating as mechanism of ideological selection in the case studies. Most original
+   potential contribution.
+2. **Accommodation mechanism** — tracing the chain from Lewis's conversational
+   accommodation through QUD-structured discourse to field-level background
+   assumptions to epistemological violence. The essay's causal mechanism.
+3. **Natural-science case** — needed to prove the argument is epistemological, not
+   merely political. Stress/ulcer hypothesis is the lead candidate.
+
+Dispatching three deep-dive agents.
+
+## Deep-dive phase — complete
+
+All three deep dives returned strong material:
+
+1. **Contrast class**: Van Fraassen's formal apparatus reconstructed precisely.
+   Block's race/IQ and culture-of-poverty cases formalized as contrast class
+   manipulation. Garfinkel (1981) and Risjord (2000) identified as partial
+   precursors but no existing work makes the full synthesis. Original contribution
+   confirmed.
+2. **Accommodation mechanism**: Five-step chain built: Lewis accommodation →
+   Stalnaker common ground → QUD governance → Longino background assumptions →
+   Teo epistemological violence. Keiser (2021) and Mallory (2025/2026) on
+   "inquisitive injustice" discovered as independent corroboration. Lewis-Longino
+   bridge is the essay's own synthesis.
+3. **Natural science**: H. pylori/stress-ulcer case developed in depth. Prior
+   bacterial observations recoded as "contaminants" because they fell outside the
+   why-question's contrast class. Marshall's own generalization: "stress is a
+   placeholder for ignorance." Phlogiston and aether as briefer parallels.
+
+## Review round 2 — SATISFIED
+
+Reviewer confirmed all three gaps filled. Two failure modes distinguished:
+(a) premature why about groups (naturalizing contested categories) and
+(b) premature why about mechanisms (presupposing a causal structure). Essay
+should handle scaling problem explicitly and mark synthetic moves as such.
+
+## Phase 5 — Writing report
