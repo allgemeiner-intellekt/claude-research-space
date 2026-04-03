@@ -163,3 +163,23 @@ Three deep-dive assignments:
   disrupts right fronto-temporal development in amusics?**
 
 Review round 2 dispatched.
+
+## Review round 2 verdict: SATISFIED
+
+Reviewer confirmed material is sufficient for report writing. Central thesis:
+the consciousness bottleneck / disconnection architecture unifies all four
+questions. Two tensions to manage in writing (Albouy auditory cortex complication,
+small-N beat deafness evidence).
+
+---
+
+## Phase 5 — Report written (2026-04-03)
+
+Report synthesizes across all four questions with the consciousness bottleneck
+as central thesis. Key argument: amusia is not a broken module but a disconnected
+one — the auditory cortex computes pitch normally at an automatic level, but the
+right fronto-temporal pathway fails to transmit this information to conscious
+access. Extended to show: most "tone deaf" people aren't (perception vs production
+split), practice doesn't change the perceptual substrate (twin evidence), the
+tonal language "paradox" dissolves methodologically, and amusia belongs to a family
+of fronto-temporal disconnection syndromes alongside dyslexia.
