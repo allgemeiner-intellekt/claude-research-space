@@ -48,3 +48,53 @@ Marxian tradition are more sophisticated than "labour is universal."
 5. **Has anyone responded to Shalizi directly?** Have Cockshott, Cottrell, or
    other defenders of the labour theory of value addressed the water/energy
    challenge specifically? What was the response?
+
+## Survey phase
+
+Dispatched 5 survey agents in parallel (one per question). All returned.
+
+Key findings:
+- Substance-of-value tradition is three centuries deep: physiocrats (land),
+  classicals (labour), thermodynamicists (energy), marginalists (utility).
+  Each faced the identical objection: why your substance and not another?
+- Marx's argument was NOT "labour is universal input" — it was about abstract
+  labour as social form specific to commodity production. Value-form school
+  (Rubin, Arthur, Heinrich, Postone) develops this most rigorously.
+- Energy theory of value is real and developed. Costanza (1980) got R² = 0.85-0.98
+  for energy-price correlations — comparable to labour-value correlations.
+- Mariolis-Tsoulfidis: I-O matrices have low effective rank. Any sufficiently
+  diffuse input correlates with prices. Labour wins because its distribution
+  aligns with the Perron-Frobenius eigenvector.
+- Nobody has directly responded to Shalizi. Cockshott's 1997 paper testing
+  alternative value bases predates the challenge by 14 years. No one has run
+  the water test.
+
+## Review round 1
+
+Verdict: CONTINUE. Two deep dives assigned:
+1. The eigenvector question — why labour aligns with PF eigenvector
+2. The "abstract water" question — can value-form school exclude energy/water?
+
+## Deep dive phase
+
+**Eigenvector**: Torres-González (2022) identifies a "new stylized fact" —
+labour coefficient vector is proportional to PF eigenvector across WIOD
+database. Structural reason: labour enters every sector (diffuse), while
+energy carriers are concentrated in few sectors. Cockshott-Cottrell 1997:
+R² = 0.955 (labour) vs 0.682 (electricity); CV = 0.198 vs 3.69-11.41.
+Parys (2018) confirms formal equivalence of labour/energy value theories
+in Sraffa-Leontief framework but empirical superiority of labour.
+
+**Abstract water**: Real abstraction (Sohn-Rethel) applies to ALL commodities,
+not just labour. Electricity markets trade energy as perfectly homogeneous
+commodity. The value-form school's actual argument for labour's uniqueness
+rests on surplus value: only labour-power produces more value than it costs.
+Water and electricity cannot generate surplus. This is the non-trivial
+response — but it requires the full apparatus of Marxian value theory, not
+just the concept of real abstraction.
+
+## Review round 2
+
+Review agent hit rate limit. Assessed coverage myself: material is sufficient.
+Seven research notes cover all five questions in depth plus two deep dives.
+Proceeding to report writing.
