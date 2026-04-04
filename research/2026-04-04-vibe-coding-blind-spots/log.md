@@ -45,3 +45,42 @@ fundamental or more practical primitive cluster. Possible alternatives:
 4. **What mental models separate "dangerous vibe coding" from "safe vibe coding"?**
    — Not "learn to program" but "learn to think about programs." What's the
    minimum conceptual toolkit?
+
+## Phase 2 — Survey
+
+Dispatched four survey agents in parallel:
+- survey-failure-modes: Covered Columbia DAPLab, Tenzai, Tambon et al., real incidents
+- survey-danger-invisibility: Eight concepts ranked by danger-to-invisibility ratio
+- survey-state-small-tools: Google Apps Script double-triggers, JSON corruption, cron overlap
+- survey-mental-models: Notional machines, the "Infinite Intern" model, epistemic posture
+
+Key convergence: silent failures (not crashes) are the dominant failure mode. The most
+dangerous bugs are structural omissions — things that should be there but aren't.
+
+## Phase 3 — Review Round 1
+
+Verdict: CONTINUE. Strong evidence base but lacking the teaching layer. Three deep dives assigned:
+1. Concrete walkthrough scenarios at personal-tool scale
+2. The "AI chooses permissive defaults" mechanism
+3. What expert review looks like concretely
+
+## Phase 4 — Deep Dives
+
+- walkthrough-scenarios: Three detailed scenarios (piano teacher double-email, book club
+  open database, photo renaming script). All grounded in real incidents.
+- permissive-defaults: Three-layer mechanism (training data debt, RLHF objective mismatch,
+  specification gap). Key finding: Wendlinger et al. 2026 shows models are internally
+  aware of vulnerabilities as they generate insecure code — rules out ignorance.
+- expert-review: Five cognitive checks experts perform automatically. Key finding: experts
+  read structural absence; novices read textual presence.
+
+## Phase 5 — Review Round 2
+
+Verdict: SATISFIED. Article backbone: three teachable concepts.
+
+## Phase 6 — Report Writing
+
+Synthesizing all notes into report.md. The article's thesis: the problem is not that
+AI writes bad code, but that AI writes code whose dangers are invisible to the person
+who asked for it. Three concepts to teach: (1) AI optimizes for "works" not "safe,"
+(2) reading vs writing operations, (3) you cannot see what an expert sees.
