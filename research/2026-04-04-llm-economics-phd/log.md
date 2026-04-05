@@ -65,3 +65,7 @@ Key synthesis guidance from reviewer: The user faces three fundamentally differe
 Four tensions to resolve in synthesis: (1) the timeline paradox (3-5 years prep may consume the window), (2) the "become quantitative" vs. "find non-quantitative path" fork, (3) intellectual quality vs. credentialing trade-off, (4) the "just get a job" option is stronger than initially apparent but has a real ceiling.
 
 Moving to report writing.
+
+## Report
+
+Final report written. Structure: three-bet framework (Bet A: economics PhD, Bet B: alternative PhD at Cornell IS or Oxford OII, Bet C: skip PhD). The report takes a position: Bet B is probably the best fit for this specific person, given non-technical background and cross-disciplinary strengths, unless they're willing to spend 3+ years becoming quantitative first. 47 sources cited.
