@@ -95,3 +95,14 @@ Reviewer's guidance for writing:
 - Resist the productivity-listicle temptation — let practical lessons emerge from the argument
 
 ## Phase 6 — Writing the report
+
+Report written. The essay is structured around the central argument that Marx's excerpting was a thinking method with a specifiable cognitive mechanism, not a filing system. Structure:
+
+1. Opening: the quantitative inversion (notebooks = majority of output, not backstage material)
+2. The concrete method: what Marx actually did (Bluhm/Rüdiger framework, IISG/MEGAdigital evidence)
+3. One notebook up close: Comments on James Mill six-zone architecture, two trigger points
+4. Why it works: three-level cognitive mechanism (individual operations, accumulation dynamic, medium effect)
+5. What makes it distinctive: three-way comparison (commonplace books, Luhmann, Marx)
+6. How it evolved: six phases, formation/implementation rhythm, late-period expansion
+7. The inversion: organized reading + chaotic composition; notebooks as the work itself
+8. Sources (32 references) and open questions (6 specific future research directions)
